@@ -32,11 +32,13 @@ The **FoxWolf Scale** is a revolutionary assessment framework designed to measur
 ## 🚀 Quick Start | البدء السريع
 
 ### English
-1. **Copy** the `Claude-Operational-Guide.md` content
-2. **Paste** it in a new conversation with Claude
-3. **Request**: "I want to assess my skills using the FoxWolf Scale"
-4. **Follow** Claude's customized instructions
-5. **Get** your detailed assessment and recommendations
+1. **Add from Github** icon '+' should be pushed at first
+2. **Sign in** to your Github account
+3. **Paste** this link 'https://github.com/AhmedFaisal-FoxWolfScale/FoxWolf-Scale.git' in the link field
+4. **Choose** the `Claude-Operational-Guide.md` from the list and press Add
+5. **Request**: "I want to assess my skills using the FoxWolf Scale"
+6. **Follow** Claude's customized instructions
+7. **Get** your detailed assessment and recommendations
 
 ### العربية
 1. **انسخ** محتوى ملف `Claude-Operational-Guide.md`
