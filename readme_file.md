@@ -311,13 +311,13 @@ The FoxWolf Scale is grounded in empirical analysis of actual social engineering
 ## 📞 Contact & Support | الاتصال والدعم
 
 ### English
-- **Project Maintainer**: [Your Name/Organization]
+- **Project Maintainer**: [Ahmed Faisal El Domiaty]
 - **AI Analysis Partner**: Claude (Anthropic)
 - **Documentation**: Available in English and Arabic
 - **Community**: Join our discussions for updates and improvements
 
 ### العربية
-- **مشرف المشروع**: [اسمك/المؤسسة]
+- **مشرف المشروع**: [أحمد فيصل الدمياطي]
 - **شريك التحليل بالذكاء الاصطناعي**: كلود (Anthropic)
 - **التوثيق**: متوفر باللغتين الإنجليزية والعربية
 - **المجتمع**: انضم لمناقشاتنا للتحديثات والتحسينات
@@ -326,7 +326,7 @@ The FoxWolf Scale is grounded in empirical analysis of actual social engineering
 
 ## 📄 License | الترخيص
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apachi 2.5 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
