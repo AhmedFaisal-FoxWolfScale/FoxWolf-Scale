@@ -44,38 +44,6 @@ The **FoxWolf Scale** is a revolutionary assessment framework designed to measur
 3. **اطلب**: "أريد تقييم مهاراتي على مقياس الثعلب الذئب"
 4. **اتبع** التوجيهات المخصصة من كلود
 5. **احصل** على تقييمك التفصيلي والتوصيات
-
----
-
-## 🏗️ Project Structure | هيكل المشروع
-
-```
-FoxWolf-Scale/
-│
-├── README.md                           # This file / هذا الملف
-├── docs/
-│   ├── en/                            # English Documentation
-│   │   ├── FoxWolf-Scale-Framework.md
-│   │   ├── Claude-Operational-Guide.md
-│   │   └── User-Manual.md
-│   │
-│   └── ar/                            # Arabic Documentation / الوثائق العربية
-│       ├── FoxWolf-Scale-Framework.md
-│       ├── Claude-Operational-Guide.md
-│       └── User-Manual.md
-│
-├── examples/                          # Example Conversations / أمثلة المحادثات
-│   ├── beginner-level-examples/
-│   ├── intermediate-level-examples/
-│   └── advanced-level-examples/
-│
-├── tools/                             # Additional Tools / أدوات إضافية
-│   ├── assessment-templates/
-│   └── reporting-templates/
-│
-└── LICENSE
-```
-
 ---
 
 ## 🎯 Assessment Categories | فئات التقييم
