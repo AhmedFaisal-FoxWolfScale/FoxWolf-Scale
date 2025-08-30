@@ -32,7 +32,7 @@ The **FoxWolf Scale** is a revolutionary assessment framework designed to measur
 ## 🚀 Quick Start | البدء السريع
 
 ### English
-1. **Add from Github** icon '+' should be pushed at first before starting the conversation with Claude Ai
+1. **Add from Github** icon '+' should be pushed at first before starting the conversation with Claude AI
 2. **Sign in** to your Github account
 3. **Paste** this link 'https://github.com/AhmedFaisal-FoxWolfScale/FoxWolf-Scale.git' in the link field
 4. **Choose** the `Claude-Operational-Guide.md` from the list and press Add
