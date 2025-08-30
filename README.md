@@ -49,8 +49,11 @@ The **FoxWolf Scale** is a revolutionary assessment framework designed to measur
 6. **اتبع** التعليمات المخصصة التي سيقدمها لك Claude.
 7. **احصل** على تقييمك المفصل وتوصياتك.
 
-   ### Note:
+
+
+### Note:
 **"Feel free to use whatever language you're most comfortable with; just be sure to stick to it for the rest of the conversation with Claude AI"**
+
 
 
 ---
