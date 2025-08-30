@@ -6,7 +6,7 @@
 
 **Where Nature Meets Cybersecurity Excellence** 🦊🐺🛡️
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-Apache-2.0-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 ![Language](https://img.shields.io/badge/Language-English%2FArabic-red.svg)
 ![AI](https://img.shields.io/badge/AI%20Powered-Claude-purple.svg)
@@ -300,7 +300,7 @@ The FoxWolf Scale is grounded in empirical analysis of actual social engineering
 
 ## 📄 License | الترخيص
 
-This project is licensed under the Apachi 2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
