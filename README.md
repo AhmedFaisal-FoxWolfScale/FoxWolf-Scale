@@ -6,7 +6,7 @@
 
 **Where Nature Meets Cybersecurity Excellence** 🦊🐺🛡️
 
-![License](https://img.shields.io/badge/License-Apache-2.0-blue.svg)
+![License](https://img.shields.io/badge/License-Apache%2.0-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 ![Language](https://img.shields.io/badge/Language-English%2FArabic-red.svg)
 ![AI](https://img.shields.io/badge/AI%20Powered-Claude-purple.svg)
