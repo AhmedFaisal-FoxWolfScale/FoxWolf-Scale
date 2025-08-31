@@ -55,7 +55,21 @@ The **FoxWolf Scale** is a revolutionary assessment framework designed to measur
 **"Feel free to use whatever language you're most comfortable with; just be sure to stick to it for the rest of the conversation with Claude AI"**
 
 
+## ⚠️ Important User Notice
 
+**Claude accepts text only, not images:**
+- Convert conversations to text before sending them to Claude
+- Do not send screenshots of conversations
+- Use OCR tools or manual copying to extract text
+- Ensure you copy the complete conversation including timestamps
+
+**Helpful tools for converting images to text:**
+- Google Lens
+- OnlineOCR.net
+- Microsoft Office Lens
+- CamScanner
+
+- 
 ---
 
 ## 🎯 Assessment Categories | فئات التقييم
